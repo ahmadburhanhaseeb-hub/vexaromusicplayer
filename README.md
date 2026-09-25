@@ -1,4 +1,4 @@
-<img width="1920" height="1440" alt="InShot_20260925_160500926" src="https://github.com/user-attachments/assets/a1ad5008-9ffa-47d4-ad85-61db851162ca" />
+<img width="1920" height="1440" alt="InShot_20260925_160932944" src="https://github.com/user-attachments/assets/3d4facb7-bbdb-41f9-b6ec-7b0ff68663e8" />
 
 
 P L Λ Y, also named as ''PrismPlay''  minimalist Android music player designed with a unique gesture-driven interface and dynamic album-art theming. If you 
